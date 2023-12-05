@@ -9,3 +9,10 @@ Speaker saver for XR Elite HMD<br>
 <br>
 ![image](https://github.com/notancillary/CY-XRE-Speaker-Saver/assets/50598087/a2f8ee09-dcec-40c6-a61f-6edcf1ec5139) <br><br>
 ![image](https://github.com/notancillary/CY-XRE-Speaker-Saver/assets/50598087/3dc3278c-a1d5-4cff-9a6c-4297b28f53ed) <br><br>
+
+<br><br>
+CC BY-NC-SA 3.0
+<br><br>
+Creative Commons
+<br><br>
+Attribution-NonCommercial-ShareAlike 3.0 Unported<br><br>
